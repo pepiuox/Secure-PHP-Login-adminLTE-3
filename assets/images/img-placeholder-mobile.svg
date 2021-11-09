@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="999.999px" height="1500px" viewBox="0 0 999.999 1500" enable-background="new 0 0 999.999 1500" xml:space="preserve">
+<g id="Spicchi_sotto_e_lato">
+</g>
+<g id="luna">
+	<g>
+		<defs>
+			<rect id="SVGID_3_" x="-4971.466" y="-3233.533" width="2000" height="1000"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		<path clip-path="url(#SVGID_2_)" fill="#CCCCCC" d="M1211.867,2205.467c0-2750.939-2064.874-4981-4612.037-4981
+			c-2547.157,0-4612.037,2230.061-4612.037,4981s2064.88,4981,4612.037,4981C-853.007,7186.467,1211.867,4956.404,1211.867,2205.467
+			z"/>
+	</g>
+</g>
+<g id="Orizzontale_dark">
+</g>
+<g id="Quadrato1">
+</g>
+<g id="Quadrato2">
+</g>
+<g id="Quadrato3">
+</g>
+<g id="Quadrato4">
+</g>
+<g id="Mobile">
+	<path fill="#6C757D" d="M999.767,1500.467h0.232H-0.466v-0.232L-0.698,99.775c0-55.26,45.429-99.309,100.658-99.309H899.98
+		c55.229,0,99.438,44.165,99.438,99.425L999.767,1500.467z"/>
+	<g>
+		<defs>
+			<rect id="SVGID_15_" x="48.534" y="159.467" width="906" height="1341"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_15_"  overflow="visible"/>
+		</clipPath>
+		<circle clip-path="url(#SVGID_4_)" fill="#CCCCCC" cx="462.917" cy="749.771" r="771.18"/>
+		<circle clip-path="url(#SVGID_4_)" fill="#F3F3F3" cx="-0.252" cy="242.56" r="587.804"/>
+		<circle clip-path="url(#SVGID_4_)" fill="#F3F3F3" cx="501.807" cy="1524.763" r="587.804"/>
+	</g>
+</g>
+<g id="Tablet">
+	<g>
+		<defs>
+			<rect id="SVGID_17_" x="104.534" y="2148.467" width="2090" height="1392"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_17_"  overflow="visible"/>
+		</clipPath>
+		<path clip-path="url(#SVGID_6_)" fill="#F3F3F3" d="M3873.2,2148.139c0-913.996-751.649-1654.932-1678.861-1654.932
+			c-927.217,0-1678.868,740.936-1678.868,1654.932c0,913.989,751.651,1654.922,1678.868,1654.922
+			C3121.551,3803.061,3873.2,3062.128,3873.2,2148.139z"/>
+	</g>
+</g>
+<g id="Orizzontale_light">
+</g>
+</svg>
